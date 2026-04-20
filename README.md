@@ -14,14 +14,7 @@ philosophy:   "name it in Japanese, ship it in Docker, proxy it through Caddy"
 <!-- PROJECTS:START -->
 ```
 ~/shark-no/
-├── mempalace      long-term memory mcp (19 tools, 8 wings)
-├── kari           web scraper mcp with stealth fallback
-├── yami           threat intel mcp (greynoise, nvd, cisa kev)
-├── chishiki       self-hosted wiki
-├── ninsho-mon     reverse proxy / auth gateway
-└── shitaku        one-liner dev env installer
-
-most private for now. public stuff pinned above.
+└── (nothing tagged `shark-no` yet)
 ```
 <!-- PROJECTS:END -->
 
