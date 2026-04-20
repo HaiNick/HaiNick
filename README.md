@@ -1,11 +1,3 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=shark&color=0:0f172a,100:1e293b&height=180&section=header&text=sharky&fontSize=70&fontColor=f1f5f9&animation=fadeIn)
-
-[![Profile views](https://komarev.com/ghpvc/?username=HaiNick&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/HaiNick)
-
-</div>
-
 ## 我 whoami
 
 ```yaml
