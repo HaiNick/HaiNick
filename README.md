@@ -14,7 +14,11 @@ philosophy:   "name it in Japanese, ship it in Docker, proxy it through Caddy"
 <!-- PROJECTS:START -->
 ```
 ~/shark-no/
-└── (nothing tagged `shark-no` yet)
+├── dotfiles    Personal dotfiles — used by install.snowy-burbot.com
+├── Kari        Remote MCP server for web scraping with anti-bot evasion. Gives Claude stealth HTTP fetching, headless browser, Cloudflare bypass, CSS extraction, and YouTube transcripts via Scrapling.
+└── Ninsho-Mon  Secure public access to self-hosted apps via Google OAuth and Tailscale Funnel
+
+most private for now. public stuff pinned above.
 ```
 <!-- PROJECTS:END -->
 
