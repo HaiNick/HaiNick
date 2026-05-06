@@ -50,8 +50,8 @@ shark    (Raspberry Pi 5, 16G)    docmost · sensor lab
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HaiNick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiNick&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=HaiNick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HaiNick&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
